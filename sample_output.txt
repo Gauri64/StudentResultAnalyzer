@@ -1,0 +1,10 @@
+STUDENT RESULT AND GRADE ANALYZER
+---------------------------------
+Asha | Average: 87.67% | Grade: A | Result: Pass
+Rahul | Average: 71.67% | Grade: B | Result: Pass
+Neha | Average: 95.0% | Grade: A | Result: Pass
+Aman | Average: 41.0% | Grade: F | Result: Fail
+Invalid record: marks must be between 0 and 100 for Priya
+
+Students passing (average >= 50): 3
+Topper: Neha with 95.0%

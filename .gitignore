@@ -1,0 +1,5 @@
+# Haskell/GHC build artifacts
+*.hi
+*.o
+StudentResultAnalyzer
+StudentResultAnalyzer.exe
